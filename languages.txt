@@ -1,0 +1,9 @@
+java
+cotlin
+scala
+ruby
+js	
+c++
+german
+spanisg
+goki
